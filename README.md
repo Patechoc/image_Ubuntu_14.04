@@ -1,2 +1,3 @@
-# image_Ubuntu_14.04
-Docker image for Ubuntu Trusty
+# Docker image for Ubuntu Trusty (14.04)
+
+
